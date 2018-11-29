@@ -1,0 +1,9 @@
+{
+  "name": "mini-compiler",
+  "version": "0.0.1",
+  "description": "This is a mini compiler. The aim is to have a glance at compiler.",
+  "main": "index.js",
+  "author": "AlvinYuxt",
+  "license": "MIT",
+  "private": false
+}
